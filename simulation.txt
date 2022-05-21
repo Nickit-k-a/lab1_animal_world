@@ -1,0 +1,210 @@
+[
+    {
+        "__Deer__": {
+            "_Animal__age": 44,
+            "_Animal__name": "Bembi",
+            "_Animal__life_points": 8,
+            "_Animal__food_points": 48,
+            "_Animal__symbol": "B",
+            "_Animal__pos_x": 4,
+            "_Animal__pos_y": 9,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": false
+        }
+    },
+    {
+        "__Wolf__": {
+            "_Animal__age": 34,
+            "_Animal__name": "Seriy",
+            "_Animal__life_points": 28,
+            "_Animal__food_points": 23,
+            "_Animal__symbol": "W",
+            "_Animal__pos_x": 0,
+            "_Animal__pos_y": 1,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Boar__": {
+            "_Animal__age": 24,
+            "_Animal__name": "Kaban",
+            "_Animal__life_points": 38,
+            "_Animal__food_points": 93,
+            "_Animal__symbol": "K",
+            "_Animal__pos_x": 0,
+            "_Animal__pos_y": 0,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Bear__": {
+            "_Animal__age": 39,
+            "_Animal__name": "Miwka",
+            "_Animal__life_points": 68,
+            "_Animal__food_points": 28,
+            "_Animal__symbol": "M",
+            "_Animal__pos_x": 3,
+            "_Animal__pos_y": 3,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Rabbit__": {
+            "_Animal__age": 13,
+            "_Animal__name": "Zaika",
+            "_Animal__life_points": 11,
+            "_Animal__food_points": 36,
+            "_Animal__symbol": "Z",
+            "_Animal__pos_x": 9,
+            "_Animal__pos_y": 8,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": false
+        }
+    },
+    {
+        "__Deer__": {
+            "_Animal__age": 44,
+            "_Animal__name": "Bembi",
+            "_Animal__life_points": 8,
+            "_Animal__food_points": 48,
+            "_Animal__symbol": "B",
+            "_Animal__pos_x": 9,
+            "_Animal__pos_y": 1,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": false
+        }
+    },
+    {
+        "__Wolf__": {
+            "_Animal__age": 34,
+            "_Animal__name": "Seriy",
+            "_Animal__life_points": 28,
+            "_Animal__food_points": 23,
+            "_Animal__symbol": "W",
+            "_Animal__pos_x": 9,
+            "_Animal__pos_y": 9,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Boar__": {
+            "_Animal__age": 24,
+            "_Animal__name": "Kaban",
+            "_Animal__life_points": 38,
+            "_Animal__food_points": 87,
+            "_Animal__symbol": "K",
+            "_Animal__pos_x": 1,
+            "_Animal__pos_y": 4,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Bear__": {
+            "_Animal__age": 38,
+            "_Animal__name": "Miwka",
+            "_Animal__life_points": 66,
+            "_Animal__food_points": 53,
+            "_Animal__symbol": "M",
+            "_Animal__pos_x": 8,
+            "_Animal__pos_y": 6,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Deer__": {
+            "_Animal__age": 44,
+            "_Animal__name": "Bembi",
+            "_Animal__life_points": 8,
+            "_Animal__food_points": 48,
+            "_Animal__symbol": "B",
+            "_Animal__pos_x": 6,
+            "_Animal__pos_y": 2,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": false
+        }
+    },
+    {
+        "__Wolf__": {
+            "_Animal__age": 34,
+            "_Animal__name": "Seriy",
+            "_Animal__life_points": 28,
+            "_Animal__food_points": 23,
+            "_Animal__symbol": "W",
+            "_Animal__pos_x": 3,
+            "_Animal__pos_y": 3,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Boar__": {
+            "_Animal__age": 24,
+            "_Animal__name": "Kaban",
+            "_Animal__life_points": 38,
+            "_Animal__food_points": 58,
+            "_Animal__symbol": "K",
+            "_Animal__pos_x": 2,
+            "_Animal__pos_y": 8,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Bear__": {
+            "_Animal__age": 39,
+            "_Animal__name": "Miwka",
+            "_Animal__life_points": 68,
+            "_Animal__food_points": 28,
+            "_Animal__symbol": "M",
+            "_Animal__pos_x": 5,
+            "_Animal__pos_y": 2,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": true
+        }
+    },
+    {
+        "__Bird__": {
+            "_Animal__age": 12,
+            "_Animal__name": "Ququwka",
+            "_Animal__life_points": 3,
+            "_Animal__food_points": 23,
+            "_Animal__symbol": "Q",
+            "_Animal__pos_x": 0,
+            "_Animal__pos_y": 6,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": false
+        }
+    },
+    {
+        "__Bird__": {
+            "_Animal__age": 16,
+            "_Animal__name": "Ququwka",
+            "_Animal__life_points": 11,
+            "_Animal__food_points": 31,
+            "_Animal__symbol": "Q",
+            "_Animal__pos_x": 2,
+            "_Animal__pos_y": 2,
+            "_Animal__maturation_age": 0,
+            "_Animal__is_predator": false
+        }
+    },
+    {
+        "__Bird__": {
+            "_Animal__age": 16,
+            "_Animal__name": "Ququwka",
+            "_Animal__life_points": 11,
+            "_Animal__food_points": 31,
+            "_Animal__symbol": "Q",
+            "_Animal__pos_x": 0,
+            "_Animal__pos_y": 0,
+            "_Animal__maturation_age": 2,
+            "_Animal__is_predator": false
+        }
+    }
+]
